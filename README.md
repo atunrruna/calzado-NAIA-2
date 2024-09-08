@@ -1,28 +1,31 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
-        <title>Calzado NAIA</title>
-    </head>
-    <body>
-
-         <hr />
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Mi Primer Sitio Web de Calzado NAIA</title>
+   </head>
+   <body>
+      <hr />
          <h1>Calzado NAIA</h1>
          <img src="" />
          <H2>Coleccion primavera 2024<h2>
-         <P> Calzado Diario<p>
-            <p>Inspirado en tus necesidades cotidianas.
-            <p> Calzado Casual<p>
-                <p>Una prenda irreverente.
+            <ol> 
+                <img src="2024-08-27.jpeg">
+                <P> Calzado Diario<p>
+                <p>Inspirado en tus necesidades cotidianas.<p>
+                <p> Calzado Casual<p>
+                <p>Una prenda irreverente.<p>
                 <p>Calzado Formal<p>
-                    <p>Es un par que te empodera.
-                    <p>Calzado Fiesta<p>
-                        <p>Tu mejor compañero.<p>
-                            <hr />
-        <span>Colecciones</span>
-        <span>Colores</span>
-        <span>inspiracion</span>
-                               
-                <h3>Calzado a tu medida<h3>
+                <p>Es un par que te empodera.<p>
+                <p>Calzado Fiesta<p>
+                <p>Tu mejor compañero.<p>
+                                <hr />
+            <span>Colecciones</span>
+            <span>Colores</span>
+            <span>inspiracion</span>
+                                   
+                    <h3>Calzado a tu medida<h3> </ol>
                     <hr />
 
     </body>
@@ -32,7 +35,6 @@
             <ol>
                 <hr />
     <p>Para sus clientes<p>
-
         <ul> 
             <li>elemento nuevo<li>
                 <li>Elemento adicional<li>
@@ -41,4 +43,6 @@
 <spam>Enlace 1</spam><spam>Enlace 2</spam>
 <a href="./Contactos.html">Formulario de contacto</a>
 
+</html>
+   </body>
 </html>
