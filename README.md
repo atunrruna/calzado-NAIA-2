@@ -11,7 +11,7 @@
          <img src="" />
          <H2>Coleccion primavera 2024<h2>
             <ol> 
-                <img src="2024-08-27.jpeg">
+                <img src="2024-08-27.jpg">
                 <P> Calzado Diario<p>
                 <p>Inspirado en tus necesidades cotidianas.<p>
                 <p> Calzado Casual<p>
